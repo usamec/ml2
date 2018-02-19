@@ -26,7 +26,7 @@ print(x.value)     # Should be 2.0
 print(x2.value)    # Should be 4.0
 ```
 
-Calculate of derivatives should be called explicitly on required variable.
+Calculate of derivatives should be called explicitly on required variable by backward method.
 Each input variable should have `d` member, which contains required derivative in value property.
 
 ```python
@@ -34,12 +34,17 @@ x = Variable(7.0)
 y = Variable(10.0)
 z = Variable(1.0)
 
-a = x*y + 3*z
-print(a.value)
-a.backward()
-print(x.d.value)
-print(y.d.value)
-print(z.d.value)
+q = x*y
+a = q + 3*z + x
+print(a.value)     # Prints 80.0
+a.backward()       # Calculates da / dx, da / dy, da / dz, dq / dz
+print(x.d.value)   # Prints 11.0
+print(y.d.value)   # Prints 7.0
+print(z.d.value)   # Prints 3.0
+print(q.d.value)   # Prints 1.0
 ```
 
-Prints 73.0, then 10.0, then 7.0 and finaly 3.0.
+### Grading
+
+For 50% of points your code should be able to calculate first order derivatives of any expression containing plus, minus and multiplication (whole file test1.py, TODO link).
+Otherwise your score is: % tests passed in test2.py + % of tests passed in bonus.py.  
