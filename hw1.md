@@ -46,5 +46,12 @@ print(q.d.value)   # Prints 1.0
 
 ### Grading
 
-For 50% of points your code should be able to calculate first order derivatives of any expression containing plus, minus and multiplication (whole file test1.py, TODO link).
-Otherwise your score is: % tests passed in test2.py + 0.5 * % of tests passed in bonus.py.  
+For 50% of points your code should be able to calculate first order derivatives of any expression containing plus, minus and multiplication. If you fail this requirement your number of points is zero.
+Otherwise your grade depends on number of passed tests.
+
+You are provide set of files with unittests. `test1.py` contains tests for plus, minus and mulplication and calculating derivatives using them. `test2.py` contains tests also other expressions. `bonus.py` contains one example of higher order derivative. Your code will be also graded on other tests, which are not visible to you right now. TODO: links
+
+You can expect that all Variables in tests would fall into reasonable range and there will no gotchas for rounding errors, overflows and similar phenomena.
+
+TODO links.
+
