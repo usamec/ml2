@@ -52,3 +52,7 @@ You are provide set of files with unittests. [test1.py](https://raw.githubuserco
 
 You can expect that all Variables in tests would fall into reasonable range and there will no gotchas for rounding errors, overflows and similar phenomena.
 
+## Limitations
+
+No external libraries only pure Python3 and its standard libraries (and numpy if you really insist).
+
