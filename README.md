@@ -10,7 +10,7 @@
 ## Grading
 
 Three projects:
-* Autograd - 20% - deadline 9th March
+* [Autograd](https://usamec.github.com/ml2/hw1) - 20% - deadline 9th March 
 * Simple project (like RNN) - 30%
 * Replication of recent paper results - 50%
 
