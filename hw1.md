@@ -4,7 +4,7 @@ Build a simple autograd engine, supporting following features:
 * Simple arithmetical operations plus, minus, multiplication, division with your scalar values or number constants. Each operation produces a new variable.
 * Calculating derivatives of all inputs for given variable.
 * Advanced operations: exp, log, tanh, sigmoid for given input
-* Bonus point: Higher order derivatives
+* Bonus points: Higher order derivatives
 
 Your code should have class Variable containing most of the logic.
 Variable should be created as follows: `x = Variable(47.42)`.
@@ -47,4 +47,4 @@ print(q.d.value)   # Prints 1.0
 ### Grading
 
 For 50% of points your code should be able to calculate first order derivatives of any expression containing plus, minus and multiplication (whole file test1.py, TODO link).
-Otherwise your score is: % tests passed in test2.py + % of tests passed in bonus.py.  
+Otherwise your score is: % tests passed in test2.py + 0.5 * % of tests passed in bonus.py.  
