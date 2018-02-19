@@ -3,7 +3,7 @@ Build a simple autograd engine, supporting following features:
 * Creation of scalar variables (no vectors or matrices needed)
 * Simple arithmetical operations plus, minus, multiplication, division with your scalar values or number constants. Each operation produces a new variable.
 * Calculating derivatives of all inputs for given variable.
-* Advanced operations: exp, log, tanh, sigmoid for given input
+* Advanced operations: exp, log, tanh for given input
 
 Your code should have class Variable containing most of the logic.
 Variable should be created as follows: `x = Variable(47.42)`.
