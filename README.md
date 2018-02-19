@@ -10,9 +10,9 @@
 ## Grading
 
 Three projects:
-* Autograd - 30% - deadline 9th March
+* Autograd - 20% - deadline 9th March
 * Simple project (like RNN) - 30%
-* Replication of recent paper results - 40%
+* Replication of recent paper results - 50%
 
 Getting less than 50% from autograd project -> FX.
 Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, less than 50% - FX).
