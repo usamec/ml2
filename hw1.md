@@ -48,11 +48,12 @@ print(q.d.value)   # Prints 1.0
 For 50% of points your code should be able to calculate first order derivatives of any expression containing plus, minus and multiplication. If you fail this requirement your number of points is zero.
 Otherwise your grade depends on number of passed tests.
 
-You are provide set of files with unittests. [test1.py](https://raw.githubusercontent.com/usamec/ml2/master/test1.py) contains tests for plus, minus and mulplication and calculating derivatives using them. [test2.py](https://raw.githubusercontent.com/usamec/ml2/master/test2.py) contains tests also other expressions. Your code will be also graded on other tests, which are not visible to you right now.
+You are provide set of files with unittests. [test1.py](https://raw.githubusercontent.com/usamec/ml2/master/test1.py) contains tests for plus, minus and mulplication and calculating derivatives using them. [test2.py](https://raw.githubusercontent.com/usamec/ml2/master/test2.py) contains tests also other expressions. Your code will be also graded on other tests, which are not visible to you right now. You can run unittests as any other python script.
 
 You can expect that all Variables in tests would fall into reasonable range and there will no gotchas for rounding errors, overflows and similar phenomena.
 
 ## Limitations
 
 No external libraries only pure Python3 and its standard libraries (and numpy if you really insist).
+Create file named `solution.py`, which makes unittests pass. Do not edit unittest files! 
 
