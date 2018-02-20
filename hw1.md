@@ -57,3 +57,5 @@ You can expect that all Variables in tests would fall into reasonable range and 
 No external libraries only pure Python3 and its standard libraries (and numpy if you really insist).
 Create file named `solution.py`, which makes unittests pass (and fulfills requirements stated above, i.e. does not have hardcode results). Do not edit unittest files! 
 
+## Sending solution
+Send your solution file to my email (`<surname>@fmph.uniba.sk`).
