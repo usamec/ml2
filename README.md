@@ -32,8 +32,16 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 ## Schedule
 
 ### 20.2.
+* Introduction to DL. https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/dlc-slides-1a-introduction.pdf, http://ttic.uchicago.edu/~shubhendu/Pages/Files/Lecture1_pauses.pdf
+* Typical modelling problem, which consist of:
+  * parametrized function, which takes input and output prediction
+  * loss function, which takes prediction and required output and outputs loss
+  * optimizer, which find parameters with smallest loss as possible
 
 ### 21.2.
+
+* Demonstration of theano and chainer (TODO notebooks)
+* How backprop works
 
 ### 27.2
 
