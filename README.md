@@ -23,6 +23,12 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 * No fear of math (gradients)
 * Reasonable coding skills in Python
 
+## Good other courses
+
+* http://ttic.uchicago.edu/~shubhendu/Pages/CMSC35246.html
+* https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/
+* http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/
+
 ## Schedule
 
 ### 20.2.
@@ -30,6 +36,11 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 ### 21.2.
 
 ### 27.2
+
+* Optimization algorithms and initialization. Slides from: http://ttic.uchicago.edu/~shubhendu/Pages/Files/Lecture6_flat.pdf, https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/dlc-slides-5-init-optim.pdf
+* About network initialization: http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
+* Neural nets can fit anything: https://arxiv.org/pdf/1611.03530.pdf
+* Small batch generalizes better than large batch: https://openreview.net/pdf?id=HkmaTz-0W
 
 ### 28.2
 
