@@ -75,4 +75,9 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 
 ### 13.3
 
+* [ResNets](https://arxiv.org/pdf/1512.03385.pdf)
+* Making convolutions smaller [Inception](https://arxiv.org/pdf/1512.00567.pdf), [more inception](https://arxiv.org/pdf/1602.07261.pdf)
+* [Object detection](http://imatge-upc.github.io/telecombcn-2016-dlcv/slides/D3L4-objects.pdf), [more material](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html)
+
 ### 14.3
+* [making nnets faster](https://usamec.github.com/ml2/RG slides.pdf)
