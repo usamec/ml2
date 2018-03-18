@@ -62,3 +62,17 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 * Talking about vanishing and exploding gradients [On the difficulty of training recurrent neural networks](http://proceedings.mlr.press/v28/pascanu13.pdf)
 * [LSTM](http://web.eecs.utk.edu/~itamar/courses/ECE-692/Bobby_paper1.pdf), [GRU](https://arxiv.org/pdf/1412.3555.pdf), [IRNN](https://arxiv.org/pdf/1504.00941.pdf)
 * [Highway networks](https://arxiv.org/pdf/1505.00387.pdf)
+
+### 6.3
+
+* Generaliation in neural networks and dropout: [slides](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec9.pdf), [slides 19-25](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/dlc-slides-6-going-deeper.pdf). 
+
+
+### 7.3
+
+* Language generation: [char-RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+* Machine translation. Best course for that is [CS224n](http://web.stanford.edu/class/cs224n/syllabus.html). Relevant slides are [1](http://web.stanford.edu/class/cs224n/lectures/lecture10.pdf), [2](http://web.stanford.edu/class/cs224n/lectures/lecture11.pdf), [3](http://web.stanford.edu/class/cs224n/lectures/lecture12.pdf)
+
+### 13.3
+
+### 14.3
