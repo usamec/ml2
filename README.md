@@ -80,4 +80,4 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 * [Object detection](http://imatge-upc.github.io/telecombcn-2016-dlcv/slides/D3L4-objects.pdf), [more material](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html)
 
 ### 14.3
-* [making nnets faster](https://usamec.github.com/ml2/RG slides.pdf)
+* [making nnets faster](https://usamec.github.com/ml2/RG%20slides.pdf)
