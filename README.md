@@ -11,7 +11,7 @@
 
 Three projects:
 * [Autograd](https://usamec.github.com/ml2/hw1) - 20% - deadline 9th March 
-* [QRNN](https://usamec.github.com/ml2/hw1) - 30% - deadline end of semester (20th May)
+* [QRNN](https://usamec.github.com/ml2/hw2) - 30% - deadline end of semester (20th May)
 * Replication of recent paper results - 50%
 
 Getting less than 50% from autograd project -> FX.
