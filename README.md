@@ -81,3 +81,29 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 
 ### 14.3
 * [making nnets faster](https://usamec.github.com/ml2/RG%20slides.pdf)
+
+### 20.3
+
+* [Generative adversarial networks](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
+
+### 21.3
+
+* Introduction to Bayesian modelling
+* Mostly stuff from [here](https://github.com/oapio/PrecisionWorkshop1_Prep/tree/master/notebooks)
+
+### 27.3
+
+* Sampling methods for probabilistic models
+* Rejection sampling
+* Importance sampling
+* MCMC sampling
+
+### 28.3
+
+* MCMC sampling in more detail
+* Metropolis and Metropolis hastings
+* Gibbs sampling
+
+### 4.4
+
+* PyMC demos
