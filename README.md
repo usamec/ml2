@@ -107,3 +107,12 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 ### 4.4
 
 * PyMC demos
+
+### 10.4
+
+* Reinforcement learning
+* [slides 1](https://icml.cc/2016/tutorials/deep_rl_tutorial.pdf), [slides 2](https://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf)
+
+### 11.4
+
+* Reinforcement learning demos
