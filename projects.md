@@ -1,6 +1,11 @@
 # Final projects suggestions (work in progress)
 
-### Conditional computation
+Expected output:
+
+* Runnable code (provide list of dependencies).
+* 1-2 pages long report, sumarizing the results and methods.
+
+## Conditional computation
 
 Take a paper about conditional computation (https://arxiv.org/pdf/1701.06538.pdf, https://arxiv.org/pdf/1511.06297.pdf, https://arxiv.org/pdf/1308.3432.pdf, https://arxiv.org/pdf/1611.01144.pdf) and do following things:
 
@@ -9,12 +14,14 @@ Take a paper about conditional computation (https://arxiv.org/pdf/1701.06538.pdf
 * Train conditional model M2 with similar computational cost (prediction time) as M1
 
 The goal is to have much better accuracy of M2 model than M1. Also they should be quite similar in other architecture considerations (like both should be convnets, or fully connected nets, ...).
+It might help to have custom implemention of prediction outside of the tradional frameworks.
 
-### Sparsification
+## Sparsification
 
 Apply sparsification techniques from some paper (https://arxiv.org/pdf/1711.02782.pdf) and demostrate that it can lead into faster models with comparable accuracy.
+It might help to have custom implemention of prediction outside of the tradional frameworks.
 
-### Dark knowledge (for 35 points out of 50)
+## Dark knowledge (for 35 points out of 50)
 
 Implement and test effect of using dark knowledge (http://www.ttic.edu/dl/dark14.pdf), in other words:
 
@@ -24,7 +31,7 @@ Implement and test effect of using dark knowledge (http://www.ttic.edu/dl/dark14
 
 There is a less risk here, so less points :)
 
-### Bayesian neural nets
+## Bayesian neural nets
 
 Take a very simple dataset (simpler than MNIST). Use PyMC3 to estimate distribution of neural network parameters (see here http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/).
 Demostrate, than this distrubution gives you something useful, for example:
@@ -33,10 +40,10 @@ Demostrate, than this distrubution gives you something useful, for example:
 * uncertanity in predictions
 * etc.
 
-### Your own idea
+## Your own idea
 
 Send me an email and we will see.
 
-### More ideas
+## More ideas
 
 Coming soon.
