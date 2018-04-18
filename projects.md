@@ -1,3 +1,5 @@
+# Final projects suggestions (work in progress)
+
 ### Conditional computation
 
 Take a paper about conditional computation (TODO) and do following things:
