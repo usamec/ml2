@@ -12,7 +12,7 @@
 Three projects:
 * [Autograd](https://usamec.github.com/ml2/hw1) - 20% - deadline 9th March 
 * [QRNN](https://usamec.github.com/ml2/hw2) - 30% - deadline end of semester (20th May)
-* Replication of recent paper results - 50%
+* [Final project](https://usamec.github.io/ml2/projects) aka Replication of recent paper results - 50%
 
 Getting less than 50% from autograd project -> FX.
 Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, less than 50% - FX).
