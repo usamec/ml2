@@ -26,5 +26,17 @@ There is a less risk here, so less points :)
 
 ### Bayesian neural nets
 
-Take a very simple dataset (simpler than MNIST). Use PyMC3 to estimate distribution of neural network parameters.
-Demostrate, than this distrubution gives you something useful (TODO ideas).
+Take a very simple dataset (simpler than MNIST). Use PyMC3 to estimate distribution of neural network parameters (see here http://twiecki.github.io/blog/2016/06/01/bayesian-deep-learning/).
+Demostrate, than this distrubution gives you something useful, for example:
+
+* less overfitting
+* uncertanity in predictions
+* etc.
+
+### Your own idea
+
+Send me an email and we will see.
+
+### More ideas
+
+Coming soon.
