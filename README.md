@@ -85,6 +85,7 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 ### 20.3
 
 * [Generative adversarial networks](http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf)
+* [Wasserstein GAN](https://www.alexirpan.com/2017/02/22/wasserstein-gan.html), [Wasserstein GAN 2](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 
 ### 21.3
 
