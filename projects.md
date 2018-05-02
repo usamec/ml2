@@ -40,6 +40,14 @@ Demostrate, than this distrubution gives you something useful, for example:
 * uncertanity in predictions
 * etc.
 
+## Learning with unlabeled data
+
+Take a dataset for sentiment, take only small amount of labeled samples (like 100 or 1000) and delete labels from other samples. Compare:
+
+* [semisupervised sequence learning](https://arxiv.org/abs/1511.01432)
+* semisupervised learning using graphs [like here](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45189.pdf)
+* training only using labeled data (that small sample)(using method of your choice)
+
 ## Your own idea
 
 Send me an email and we will see.
