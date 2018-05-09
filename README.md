@@ -119,3 +119,22 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 ### 11.4
 
 * Reinforcement learning demos
+
+### 17.4
+
+* Graphs in ML
+* [Smart reply for google inbox](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45189.pdf)
+
+### 18.4 and 24.4
+
+* [Graphs in ML course](http://researchers.lille.inria.fr/~valko/hp/mva-ml-graphs.php)
+* Selected topics from lecture 1-4
+
+### 2.5
+
+* no lesson
+
+### 9.5
+
+* Neareast neighbours
+* [nmslib](https://github.com/nmslib/nmslib)
