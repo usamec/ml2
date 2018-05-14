@@ -138,3 +138,7 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 
 * Neareast neighbours
 * [nmslib](https://github.com/nmslib/nmslib)
+
+### 15.5, 16.5
+
+* lecture canceled. If you have any questions about project send me an email and we can meet.
