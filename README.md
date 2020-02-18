@@ -1,7 +1,7 @@
 ## Schedule
 
-* Tuesday 9:50-11:20 I-23
-* Wednesday 13:10-14:40 M-V
+* Tuesday 11:30-13:00 F1-247
+* Thursday 9:50-11:20 M-X
 
 ## Contact
 
