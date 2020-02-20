@@ -37,6 +37,8 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 Similar to old. We will skip things over graphs (except semisupervised learning).
 We will probably add more about model compression and deployment (quantization).
 
+Calculus for deep learning: https://explained.ai/matrix-calculus/
+
 ## Old schedule
 
 ### 20.2.
