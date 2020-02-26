@@ -11,7 +11,7 @@
 
 Three projects:
 * [Autograd](https://usamec.github.com/ml2/hw1) - 20% - deadline 9th March 
-* Relativelly simple implementation of something exotic. TBD. Two years ago we had. [QRNN](https://usamec.github.com/ml2/hw2) - 30% - deadline end of semester (15th May)
+* Relativelly simple implementation of something exotic. TBD. [Lottery tickets](https://usamec.github.com/ml2/hw2) - 30% - deadline end of semester (15th May)
 * [Final project](https://usamec.github.io/ml2/projects) aka Replication of recent paper results - 50%
   * General deadline 18th June
   * Deadline for 5th year students - 20th May
