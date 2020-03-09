@@ -1,3 +1,8 @@
+## Covid closure
+
+There will be notes for next two week lectures coming soon.
+(expect transformers and sequence to sequence modelling tutorials).
+
 ## Schedule
 
 * Tuesday 11:30-13:00 F1-247
