@@ -44,6 +44,42 @@ We will probably add more about model compression and deployment (quantization).
 
 Calculus for deep learning: https://explained.ai/matrix-calculus/
 
+### 18. 2
+
+* Introduction to DL. https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/dlc-slides-1a-introduction.pdf, http://ttic.uchicago.edu/~shubhendu/Pages/Files/Lecture1_pauses.pdf
+* Typical modelling problem, which consist of:
+  * parametrized function, which takes input and output prediction
+  * loss function, which takes prediction and required output and outputs loss
+  * optimizer, which find parameters with smallest loss as possible
+* Pytorch demos
+
+### 20. 2
+
+* Optimization algorithms and initialization. Slides from: http://ttic.uchicago.edu/~shubhendu/Pages/Files/Lecture6_flat.pdf, https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/dlc-slides-5-init-optim.pdf
+* About network initialization: http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf
+
+### 25. 2
+
+* Building blocks of neural networks
+* Fully-connected (Pytorch Linear, Keras Dense) layers
+* Convolutional layers
+* Maxpooling
+
+### 27. 2
+
+* Recurrent neural networks, GRU, LSTMs
+* Difficulty of training them 
+
+### 3. 3
+
+* Relu
+* BatchNormalization, LayerNormalization
+* [ResNets](https://arxiv.org/pdf/1512.03385.pdf)
+
+### 5. 3
+
+* [Object detection](http://imatge-upc.github.io/telecombcn-2016-dlcv/slides/D3L4-objects.pdf), [more material](https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html)
+
 ## Old schedule
 
 ### 20.2.
