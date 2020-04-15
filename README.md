@@ -1,6 +1,7 @@
 ## Covid closure
 
-There will be notes for next two week lectures coming soon.
+We have a facebook group for comunication:
+https://www.facebook.com/groups/544273583166584/
 
 Things you should get familiar with:
 
