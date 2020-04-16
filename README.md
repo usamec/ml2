@@ -48,7 +48,7 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 ## Good other courses
 
 * [http://ttic.uchicago.edu/~shubhendu/Pages/CMSC35246.html]
-* [https://fleuret.org/ee559/] and [https://fleuret.org/ee559-2018/dlc/]
+* (https://fleuret.org/ee559/) and (https://fleuret.org/ee559-2018/dlc/)
 * [http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/]
 * [http://introtodeeplearning.com/]
 
