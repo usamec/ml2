@@ -1,22 +1,22 @@
 ## Covid closure
 
 We have a facebook group for comunication:
-https://www.facebook.com/groups/544273583166584/
+<https://www.facebook.com/groups/544273583166584/>
 
 Things you should get familiar with:
 
 ### Machine translation
-* See http://web.stanford.edu/class/cs224n/ mainly: Lecture8 about machine translation. Get familiar with sequence to sequence models, beam search decoding and attention.
+* See <http://web.stanford.edu/class/cs224n/> mainly: Lecture8 about machine translation. Get familiar with sequence to sequence models, beam search decoding and attention.
 
 ### Speech recognition (mainly CTC and Transducers)
-* Get familiar with Connectionist temporal classification and Transducers. https://www.youtube.com/watch?v=3MjIkWxXigM
-* I also recommend checking https://arxiv.org/pdf/1211.3711.pdf and http://www.cs.toronto.edu/~hinton/absps/DRNN_speech.pdf.
+* Get familiar with Connectionist temporal classification and Transducers. <https://www.youtube.com/watch?v=3MjIkWxXigM>
+* I also recommend checking <https://arxiv.org/pdf/1211.3711.pdf> and <http://www.cs.toronto.edu/~hinton/absps/DRNN_speech.pdf>.
 
 ### Self-attention and transformers
-* Again http://web.stanford.edu/class/cs224n/ lecture 10
+* Again <http://web.stanford.edu/class/cs224n/> lecture 10
 
 ### Bayessian modeling
-* Check out PyMC3 tutorial https://docs.pymc.io/notebooks/getting_started.html (there will be more content about this comming soon).
+* Check out PyMC3 tutorial <https://docs.pymc.io/notebooks/getting_started.html> (there will be more content about this comming soon).
 
 ## Schedule
 
@@ -57,7 +57,7 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 Similar to old. We will skip things over graphs (except semisupervised learning).
 We will probably add more about model compression and deployment (quantization).
 
-Calculus for deep learning: https://explained.ai/matrix-calculus/
+Calculus for deep learning: <https://explained.ai/matrix-calculus/>
 
 ### 18. 2
 
