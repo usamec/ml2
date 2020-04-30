@@ -5,6 +5,15 @@ Expected output:
 * Runnable code (provide list of dependencies).
 * 1-2 pages long report, sumarizing the results and methods.
 
+## Notautoregressive text generation
+
+Most of the time we are generating text by producing one token after another (and new token probability depends on previous generated tokens). But maybe some other method is better (like <https://arxiv.org/pdf/2002.08926.pdf>).
+Goal here is to implement and test some either language translation, generation or speech recognition, which does not generates text one by one.
+
+## GAN and natural langauge
+
+Implement some GAN which generates text (choice is up to you).
+
 ## Conditional computation
 
 Take a paper about conditional computation (https://arxiv.org/pdf/1701.06538.pdf, https://arxiv.org/pdf/1511.06297.pdf, https://arxiv.org/pdf/1308.3432.pdf, https://arxiv.org/pdf/1611.01144.pdf) and do following things:
