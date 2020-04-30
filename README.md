@@ -18,6 +18,14 @@ Things you should get familiar with:
 ### Bayessian modeling
 * Check out PyMC3 tutorial <https://docs.pymc.io/notebooks/getting_started.html> (there will be more content about this comming soon).
 
+### Genarative adversarial networks (GANs)
+
+* It would be great if you check basic of GANs, typical problems (saturation, mode colapse) and Wasserstein GANs.
+* Checkout what can Earthmover distance capture compared to KL divergence.
+* If you are brave, go for tutorials on <https://fleuret.org/ee559/> (11.1, 11.2), but they are bit technical IMHO. There is also a video on older version of the course <https://fleuret.org/ee559-2018/dlc/>.
+* These links might be little bit more accessible <http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf>
+<https://www.alexirpan.com/2017/02/22/wasserstein-gan.html>, <https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html>
+
 ## Schedule
 
 * Tuesday 11:30-13:00 F1-247
