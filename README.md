@@ -31,10 +31,10 @@ Things you should get familiar with:
 
 Three projects:
 * [Autograd](https://usamec.github.com/ml2/hw1) - 20% - deadline 9th March 
-* Relativelly simple implementation of something exotic. [Lottery tickets](https://usamec.github.com/ml2/hw2) - 30% - deadline end of semester (15th May)
+* Relativelly simple implementation of something exotic. [Lottery tickets](https://usamec.github.com/ml2/hw2) - 30% - deadline end of semester (22th May for 5th year students, 29th May for rest)
 * [Final project](https://usamec.github.io/ml2/projects) aka Replication of recent paper results - 50%
-  * General deadline 18th June
-  * Deadline for 5th year students - 20th May
+  * General deadline 25th June
+  * Deadline for 5th year students - 27th May
 
 Getting less than 50% from autograd project -> FX.
 Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, less than 50% - FX).
