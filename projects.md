@@ -5,6 +5,15 @@ Expected output:
 * Runnable code (provide list of dependencies).
 * 1-2 pages long report, sumarizing the results and methods.
 
+## 3D reconstruction via neural nets
+
+Something like <http://openaccess.thecvf.com/content_cvpr_2017/papers/Sinha_SurfNet_Generating_3D_CVPR_2017_paper.pdf>.
+
+## Rendering improvement via neural nets
+
+Goal: render scene via ray tracing with low sample count and improve via neural net.
+See: <https://arxiv.org/pdf/1803.04189.pdf> <https://dl.acm.org/doi/10.1145/2766977>
+
 ## Adversarial examples generation for text
 
 Do adversarial attack for some text classifier like <https://openreview.net/pdf?id=r1QZ3zbAZ>.
