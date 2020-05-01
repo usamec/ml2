@@ -1,9 +1,13 @@
-# Final projects suggestions (work in progress)
+# Final projects suggestions
 
 Expected output:
 
 * Runnable code (provide list of dependencies).
 * 1-2 pages long report, sumarizing the results and methods.
+
+## Adversarial examples generation for text
+
+Do adversarial attack for some text classifier like <https://openreview.net/pdf?id=r1QZ3zbAZ>.
 
 ## Notautoregressive text generation
 
@@ -13,6 +17,11 @@ Goal here is to implement and test some either language translation, generation 
 ## GAN and natural langauge
 
 Implement some GAN which generates text (choice is up to you).
+
+## Optimizing nondifferential metrics
+
+In many cases we care about one metric, which is non diffirentiable but optimize some other differentiable metrics. Typical case is machine translation where we evaluate BLEU score but optimize crossentropy (see <https://arxiv.org/pdf/1511.06732.pdf>).
+Your goal is to pick a simple example task, where you can demonstrate that finetuning relevant metric can lead to better result, then only training on surrogate metric.
 
 ## Conditional computation
 
@@ -60,7 +69,3 @@ Take a dataset for sentiment, take only small amount of labeled samples (like 10
 ## Your own idea
 
 Send me an email and we will see.
-
-## More ideas
-
-Coming soon.
