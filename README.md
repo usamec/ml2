@@ -26,6 +26,8 @@ Things you should get familiar with:
 * These links might be little bit more accessible <http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf>
 <https://www.alexirpan.com/2017/02/22/wasserstein-gan.html>, <https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html>
 
+TODO: policy gradients, adversarial examples, semisupervised learning
+
 ## Schedule
 
 * Tuesday 11:30-13:00 F1-247
