@@ -7,7 +7,7 @@ Expected output:
 
 ## 3D reconstruction via neural nets
 
-Something like <http://openaccess.thecvf.com/content_cvpr_2017/papers/Sinha_SurfNet_Generating_3D_CVPR_2017_paper.pdf>.
+Something like <http://openaccess.thecvf.com/content_cvpr_2017/papers/Sinha_SurfNet_Generating_3D_CVPR_2017_paper.pdf> or <https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/>.
 
 ## Rendering improvement via neural nets
 
