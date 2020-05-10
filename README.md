@@ -26,7 +26,14 @@ Things you should get familiar with:
 * These links might be little bit more accessible <http://slazebni.cs.illinois.edu/spring17/lec11_gan.pdf>
 <https://www.alexirpan.com/2017/02/22/wasserstein-gan.html>, <https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html>
 
-TODO: policy gradients, adversarial examples, semisupervised learning
+### Reinforcement learning and policy gradients
+
+* [slides 1](https://icml.cc/2016/tutorials/deep_rl_tutorial.pdf), [slides 2](https://people.eecs.berkeley.edu/~pabbeel/nips-tutorial-policy-optimization-Schulman-Abbeel.pdf), [slides 3](http://www.cs.toronto.edu/~rgrosse/courses/csc321_2017/slides/lec23.pdf)
+
+### Adversarial training
+
+* Skim material from here <https://adversarial-ml-tutorial.org/>
+
 
 ## Schedule
 
