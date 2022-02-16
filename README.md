@@ -7,7 +7,7 @@
 ## Grading
 
 Three projects:
-* [Autograd](https://usamec.github.com/ml2/hw1) - 20% - deadline 9th March 
+* [Autograd](https://usamec.github.io/ml2/hw1) - 20% - deadline 9th March 
 * Relativelly simple implementation of something exotic. - 30% - deadline end of semester
 * [Final project](https://usamec.github.io/ml2/projects) aka Replication of recent paper results - 50%
   * General deadline 25th June
