@@ -15,3 +15,9 @@ Three projects:
 
 Getting less than 50% from autograd project -> FX.
 Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, less than 50% - FX).
+
+## Useful links
+
+* [Various transformer implementations](https://github.com/lucidrains/vit-pytorch)
+* [Timm library for image training](https://github.com/rwightman/pytorch-image-models)
+* [Huggingface - mainly NLP models](https://huggingface.co/)
