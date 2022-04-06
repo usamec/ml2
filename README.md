@@ -38,3 +38,14 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 ## CTC and transducers
 * [CTC loss explained](https://distill.pub/2017/ctc/)
 * [paper about transducers](https://arxiv.org/pdf/1511.04868.pdf)
+
+## Neural net behaviour
+
+* [Basic initialiation](http://proceedings.mlr.press/v9/glorot10a/glorot10a.pdf)
+* [Double descent](https://arxiv.org/pdf/1912.02292.pdf)
+* [Flat minima are better](https://arxiv.org/pdf/1609.04836.pdf)
+* [Large minibatch might overfit](https://arxiv.org/pdf/1706.02677.pdf)
+* [Sharpness aware minimization](https://arxiv.org/pdf/2010.01412.pdf), [improved](https://arxiv.org/abs/2203.02714)
+* [Shattered gradients](http://proceedings.mlr.press/v70/balduzzi17b/balduzzi17b.pdf)
+* [ResNet are just ensembles](https://proceedings.neurips.cc/paper/2016/file/37bc2f75bf1bcfe8450a1a41c200364c-Paper.pdf)
+* [Visualization of landscape](https://proceedings.neurips.cc/paper/2018/file/a41b3bb3e6b050b6c9067c67f663b915-Paper.pdf)
