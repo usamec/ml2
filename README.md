@@ -49,3 +49,7 @@ Otherwise typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 
 * [Shattered gradients](http://proceedings.mlr.press/v70/balduzzi17b/balduzzi17b.pdf)
 * [ResNet are just ensembles](https://proceedings.neurips.cc/paper/2016/file/37bc2f75bf1bcfe8450a1a41c200364c-Paper.pdf)
 * [Visualization of landscape](https://proceedings.neurips.cc/paper/2018/file/a41b3bb3e6b050b6c9067c67f663b915-Paper.pdf)
+
+## Training dynamics
+
+[Very good course](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2021/)
