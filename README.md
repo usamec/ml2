@@ -17,4 +17,4 @@ Typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, l
 
 ## Course outline
 
-<iframe style="width:100%" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-yo_avt0TZEtz2vzb2Z4e6qJUdGpX6EFi4pmyJ2YStc5-D-VsVe5KyfsUw6Xddfv22egn7ZGAfmpT/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe style="width:100%;height:500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-yo_avt0TZEtz2vzb2Z4e6qJUdGpX6EFi4pmyJ2YStc5-D-VsVe5KyfsUw6Xddfv22egn7ZGAfmpT/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
