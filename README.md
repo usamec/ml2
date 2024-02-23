@@ -10,8 +10,8 @@ Three projects:
 * Autograd - 20% - deadline 23th March 
 * Relativelly simple implementation of something exotic. TBD - 30% - deadline end of semester
 * Final project aka Replication of recent paper results - 50%
-  * General deadline 25th June
-  * Deadline for 5th year students - around 27th May
+  * General deadline 23rd June
+  * Deadline for 5th year students - 26th May
 
 Typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, less than 50% - FX).
 
