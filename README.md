@@ -24,5 +24,6 @@ Typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, l
 ## Other useful courses
 
 * [DLC](https://fleuret.org/dlc/)
-* [Uni. of Toronto deep learning course](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
-* [Uni. of Chicago deep learning course](https://home.ttic.edu/~shubhendu/Pages/CMSC35246.html)
+* [Uni. of Toronto - Deep learning course](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
+* [Uni. of Chicago - Deep learning course](https://home.ttic.edu/~shubhendu/Pages/CMSC35246.html)
+* [Uni. of Toronto - Neural network training dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
