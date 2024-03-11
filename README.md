@@ -27,3 +27,5 @@ Typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, l
 * [Uni. of Toronto - Deep learning course](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/)
 * [Uni. of Chicago - Deep learning course](https://home.ttic.edu/~shubhendu/Pages/CMSC35246.html)
 * [Uni. of Toronto - Neural network training dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
+* [Principles of large scale ML (Cornell)](https://www.cs.cornell.edu/courses/cs4787/2019sp/)
+* 
