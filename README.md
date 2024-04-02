@@ -8,8 +8,8 @@
 
 Three projects:
 * [Autograd](https://usamec.github.io/ml2/hw1) - 20% - deadline 23th March 
-* Relativelly simple implementation of something exotic. TBD - 30% - deadline end of semester
-* Final project aka Replication of recent paper results - 50%
+* [Homework2](https://usamec.github.io/ml2/hw2) - 30% - deadline end of semester
+* [Final project](https://usamec.github.io/ml2/projects) - 50%
   * General deadline 23rd June
   * Deadline for 5th year students - 26th May
 
