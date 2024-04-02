@@ -6,9 +6,11 @@ You should do the following:
 * Pick a formal language (it should be at least a little bit interesting).
 * Write a generator, which for given length generates samples from the language and also samples outside of the language
 * Pick either recurrent neural network architecture, a transformer, or some Mamba.
-* Pick a fixed length of words (should be long enough, that all words do not fit into memory easily).
+* Pick a fixed length of words L (should be long enough, that all words do not fit into memory easily).
 * Train neural it and show that it can recognize your language for fixed length with decent accuracy (if it does not, either shorten the length, simplify language, or make the network bigger)
-* 
+* Now try to analyze one of the following:
+  - What is the relationship between L and the smallest size of the network, which can learn the task? Does it help to pretrain the network on smaller lengths first?
+  - Can the network generalize to unseen lengths (either longer or shorter)? Does this improve if you train on multiple different lengths?
 
 
 You should submit:
