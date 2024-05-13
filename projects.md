@@ -38,6 +38,12 @@ Same as above, but you also have a GPU where the model does not fit as a whole.
 It is possible that if you have a small amount of labeled data, the finetuning of the whole model might overfit.
 Take VTAB-1k benchmark, some method cited in Table 2 here https://arxiv.org/pdf/2403.19067 and reproduce results (maybe on smaller ViT or Resnet).
 
+## Is Llama-3 sensitive to quantization
+
+There is a rumor, that Llama-3 does not like quantization.
+Take nonquantized Llama2-7B and Llama3-8B and their versions quantized to 4 bits.
+Figure out whether Llama3 is more sensitive to quantization or not.
+
 ## Your own idea
 
 Send me an email and we will see.
