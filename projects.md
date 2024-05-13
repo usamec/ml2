@@ -33,6 +33,11 @@ Does quantization help? Where are the bottlenecks (try running a profiler and ch
 
 Same as above, but you also have a GPU where the model does not fit as a whole. 
 
+## Finetuning with a small amount of data
+
+It is possible that if you have a small amount of labeled data, the finetuning of the whole model might overfit.
+Take VTAB-1k benchmark, some method cited in Table 2 here https://arxiv.org/pdf/2403.19067 and reproduce results (maybe on smaller ViT or Resnet).
+
 ## Your own idea
 
 Send me an email and we will see.
