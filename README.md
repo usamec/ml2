@@ -1,4 +1,4 @@
-[Classroom](https://classroom.google.com/c/NjYzOTI3MTYzNTI5?cjc=qwsnbei) will be used for all the communication and submissions.
+[Classroom](https://classroom.google.com/c/NzUwNzY0NjkwMjc5?cjc=ngz3rzm) will be used for all the communication and submissions.
 
 ## Contact
 
@@ -6,12 +6,8 @@
 
 ## Grading
 
-Three projects:
-* [Autograd](https://usamec.github.io/ml2/hw1) - 20% - deadline 23th March 
-* [Homework2](https://usamec.github.io/ml2/hw2) - 30% - deadline end of semester
-* [Final project](https://usamec.github.io/ml2/projects) - 50%
-  * General deadline 23rd June
-  * Deadline for 5th year students - 26th May
+* Project (instructions TODO) - first deadline end of semester, then apx. one more week after feedback to improve project
+* Optional bonus points for paper presentation
 
 Typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, less than 50% - FX).
 
