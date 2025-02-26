@@ -13,10 +13,20 @@ analysis or some behaviour of a neural network. But it does not have to be; if y
 Expand efficient cross-entropy loss implementation <https://arxiv.org/abs/2411.09009> to KL-divergence.
 I.e. given two sets of embeddings E1 and E2, and output weight matrices W1, W2 (where W1 is fixed) we want to optimize KL(E1W1, E2W2) without materializing the whole E1W1 or E2W2.
 
-## Deeper analysis of HW2
+## Capabilities of transformers
 
-Analyze what are the individual (groups) of neuron computing. What is attention looking at (if you have a transformer)?
-How is this formed during training? 
+Note for data science students: Check what is a formal language (i.e. regular and context-free language) <https://foja.dcs.fmph.uniba.sk/materialy/skripta.pdf>
+Create some toy task, which can be easily expanded for longer sequences. Good examples:
+
+* Generating/recognizing correctly bracketed sequences (e.g. `([{}]((([]))))`)
+* Key-value lookup with multiple queries (e.g.`k1v1k2v2k3v3k4v4#k2k3#v2v3` model should find `v2v3`)
+* Check whether number of `a` and `b` is same in the input (e.g. `aaacbcbcb` is good)
+
+Now you check following:
+* Is it even solvable for transformer?
+* Does it generalize to longer inputs? (with maybe alibi positional embedding)
+* What is minimal size of transformer to solve task?
+* What are attention heads looking at?
 
 ## Finetuning with a small amount of data
 
