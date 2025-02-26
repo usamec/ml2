@@ -6,8 +6,8 @@
 
 ## Grading
 
-* Project (instructions TODO) - first deadline end of semester, then apx. one more week after feedback to improve project
-* Optional bonus points for paper presentation (for instruction see classroom)
+* [Project](https://usamec.github.io/ml2/projects) - first deadline end of semester, then apx. one more week after feedback to improve project
+* Optional bonus points for paper presentation (for instructions see classroom)
 
 Typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, less than 50% - FX).
 
