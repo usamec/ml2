@@ -6,16 +6,16 @@
 
 ## Grading
 
-* [Project](https://usamec.github.io/ml2/projects) - first deadline end of semester, then apx. one more week after feedback to improve project
-* Optional bonus points for paper presentation (for instructions see classroom)
+* Homework (deadline around 15th April) - 30%
+* Project (instructions TBD) - first deadline end of semester, then apx. one more week after feedback to improve project - 70%
 
 Typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, less than 50% - FX).
 
 ## Course outline
 
-[Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS-yo_avt0TZEtz2vzb2Z4e6qJUdGpX6EFi4pmyJ2YStc5-D-VsVe5KyfsUw6Xddfv22egn7ZGAfmpT/pubhtml?gid=286692933&amp;single=true&amp;widget=true&amp;headers=false)
+[Link](https://docs.google.com/spreadsheets/d/e/2PACX-1vS-yo_avt0TZEtz2vzb2Z4e6qJUdGpX6EFi4pmyJ2YStc5-D-VsVe5KyfsUw6Xddfv22egn7ZGAfmpT/pubhtml?gid=320321415&single=true)
 
-<iframe style="width:100%;height:500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-yo_avt0TZEtz2vzb2Z4e6qJUdGpX6EFi4pmyJ2YStc5-D-VsVe5KyfsUw6Xddfv22egn7ZGAfmpT/pubhtml?gid=286692933&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe style="width:100%;height:500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-yo_avt0TZEtz2vzb2Z4e6qJUdGpX6EFi4pmyJ2YStc5-D-VsVe5KyfsUw6Xddfv22egn7ZGAfmpT/pubhtml?gid=320321415&single=true"></iframe>
 
 ## Other useful courses
 
