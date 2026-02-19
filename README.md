@@ -9,6 +9,8 @@
 * Homework (deadline around 15th April) - 30%
 * Project (instructions TBD) - first deadline end of semester, then apx. one more week after feedback to improve project - 70%
 
+In both cases, there might be an oral exam on the contents of your solution (most likely during the lecture time for homework and sometimes during the exam period for the project).
+
 Typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, less than 50% - FX).
 
 ## Course outline
