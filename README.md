@@ -19,6 +19,13 @@ Typical grading scheme (more than 90% - A, 89% - 80% - B, ..., 59 % - 50% - E, l
 
 <iframe style="width:100%;height:500px" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vS-yo_avt0TZEtz2vzb2Z4e6qJUdGpX6EFi4pmyJ2YStc5-D-VsVe5KyfsUw6Xddfv22egn7ZGAfmpT/pubhtml?gid=320321415&single=true"></iframe>
 
+## AI Usage Policy
+
+TLDR: Use AI to build faster and debug smarter, but never submit anything you do not completely understand.
+
+* AI usage is strongly encouraged. For anything, especially debugging and writing code. I also expect that with AI, you can debug any random issues that would have been big blockers a couple of years ago.
+* I also expect that you would understand and be able to explain every aspect of the solution. E.g., if AI used some custom PyTorch autograd function, you should know what it does. 
+
 ## Other useful courses
 
 * [DLC](https://fleuret.org/dlc/)
