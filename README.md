@@ -33,4 +33,4 @@ TLDR: Use AI to build faster and debug smarter, but never submit anything you do
 * [Uni. of Chicago - Deep learning course](https://home.ttic.edu/~shubhendu/Pages/CMSC35246.html)
 * [Uni. of Toronto - Neural network training dynamics](https://www.cs.toronto.edu/~rgrosse/courses/csc2541_2022/)
 * [Principles of large scale ML (Cornell)](https://www.cs.cornell.edu/courses/cs4787/2019sp/)
-* 
+* [Stanford LLM course](https://cme295.stanford.edu/syllabus/)
