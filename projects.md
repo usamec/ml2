@@ -8,6 +8,10 @@ Expected output:
 A good project is, for example, a replication of some other results in a simplified setting (smaller dataset, networks, ...) or
 analysis or some behaviour of a neural network. But it does not have to be; if you are not sure, ask.
 
+### 2026 ideas (very crude and incomplete)
+
+* RNN with state dependended forget gate vs just input dependent. (Aka SSM vs GRU).
+
 ## Efficient KL-divergence implementation
 
 Expand efficient cross-entropy loss implementation <https://arxiv.org/abs/2411.09009> to KL-divergence.
