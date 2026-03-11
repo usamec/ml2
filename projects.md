@@ -10,7 +10,7 @@ analysis or some behaviour of a neural network. But it does not have to be; if y
 
 ### 2026 ideas (very crude and incomplete)
 
-* RNN with state dependended forget gate vs just input dependent. (Aka SSM vs GRU).
+* RNN with state dependended forget gate vs just input dependent. (Aka SSM vs GRU). (https://x.com/francoisfleuret/status/2031633024253624698)
 
 ## Efficient KL-divergence implementation
 
