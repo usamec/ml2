@@ -18,12 +18,15 @@ And there also might be noise, so sometimes 1 is flipped to zero and vice versa.
 
 All sequences are of length 1000 (if you want to hardcode this, you can).
 All sequences are either regular or completelly irregular (generated with default parameters from generator.py).
+To evaluate just run `python evaluate.py --data eval_easy.json`
 
 ## Hard diffuculty
 
 Evaluation sequences have different length.
 Some sequences are only partially irregular (irregularities can occur intermittently), these count as irregular.
 Regular and irregular parts are generated with default parameters from generator.py.
+
+To evaluate just run `python evaluate.py --data eval_hard.json` (don't forget to unzip first).
 
 TODO: target metrics
 

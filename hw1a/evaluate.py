@@ -4,6 +4,7 @@ import json
 import numpy as np
 import torch
 from sklearn.metrics import roc_auc_score
+from tqdm import tqdm
 
 from model import create_model
 
@@ -35,7 +36,7 @@ def evaluate(checkpoint_path: str, data_path: str) -> None:
     all_labels = []
 
     with torch.no_grad():
-        for i, item in enumerate(dataset):
+        for i, item in enumerate(tqdm(dataset, desc="Evaluating")):
             sequence = item["sequence"]
             label = item["label"]
 
