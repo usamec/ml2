@@ -20,7 +20,7 @@ def evaluate(checkpoint_path: str, data_path: str) -> None:
     state_dict = torch.load(checkpoint_path, map_location=device)
     model.load_state_dict(state_dict)
     model.eval()
-    print(f"Loaded checkpoint from '{checkpoint_path}'")
+    print(f"Loaded checkpoint from '{checkpoint_path}', total parameters {sum(p.numel() for p in model.parameters())}")
 
     # ------------------------------------------------------------------
     # Load data

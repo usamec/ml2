@@ -44,7 +44,7 @@ And there is also train.py, which you can use to train your model (you can edit 
 
 You should submit model.py, train.py files plus your model checkpoint (model.pth), which will be loaded with evaluate.py. Plus submit a short text file describing techniques you used.
 
-## Allowed and disallow techniques
+## Allowed and disallowed techniques
 
 Do not use FFT. Do not train on test (but you can generate any train set you want).
 Hardcoded task specific preprocessing (e.g. converting binary sequence to sequence of gap lengths) is not allowed.
