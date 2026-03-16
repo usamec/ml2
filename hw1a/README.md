@@ -14,11 +14,13 @@ The frequency of the signal can vary slightly over time.
 
 And there also might be noise, so sometimes 1 is flipped to zero and vice versa.
 
-## Easy difficulty (50% points)
+## Easy difficulty (30% points)
 
 All sequences are of length 1000 (if you want to hardcode this, you can).
 All sequences are either regular or completelly irregular (generated with default parameters from generator.py).
 To evaluate just run `python evaluate.py --data eval_easy.json`
+
+You will only get points, if you get at least 99.5% AUC (I can do this with 32k parameters).
 
 ## Hard diffuculty
 
@@ -28,7 +30,10 @@ Regular and irregular parts are generated with default parameters from generator
 
 To evaluate just run `python evaluate.py --data eval_hard.json` (don't forget to unzip first).
 
-TODO: target metrics
+## General grading
+
+The smaller model, the better.
+The more generic architecture, the better (e.g. if you use backward pointers with specific length, it is not that good).
 
 ## Evaluation, training setup and what should you submit
 
@@ -41,7 +46,8 @@ You should submit model.py, train.py files plus your model checkpoint (model.pth
 
 ## Allowed and disallow techniques
 
-Do not use FFT. Do not train on test.
+Do not use FFT. Do not train on test (but you can generate any train set you want).
+Hardcoded task specific preprocessing (e.g. converting binary sequence to sequence of gap lengths) is not allowed.
 Any type of convolutional, recurrent networks or transformers is allowed.
 You can use AI as you wish, but describe how you use it and keep in mind, that you must understand everything inside your solution.
 Also, if you want to use autoresearch by Andrej Karpathy, knock yourself out.
