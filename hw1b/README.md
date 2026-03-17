@@ -28,6 +28,9 @@ What is happening with continuous weights $W'$ during optimization, and what wit
 
 Based on previous observations, do something better (I can do slightly less than 7 MSE).
 
+## What to submit
+
+Training code for each subtask, weights for each subtask, and a PDF report (mainly focusing on the second task and explaining your techniques in the third task).
 
 ## Allowed and disallowed techniques
 
