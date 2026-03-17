@@ -3,7 +3,7 @@
 ## General description
 
 We will do a quantized linear regression.
-You are given inputs $X$ and target outputs $Y$, your goal is to find a weight $W$ such that $||XW - Y||_2$ is minimal and individual weights from $W$ are from ${-3, -2, -1, 0, 1, 2, 3}$.
+You are given inputs $X$ and target outputs $Y$, your goal is to find a weight $W$ such that $||XW - Y||_2$ is minimal and individual weights from $W$ are from $\{-3, -2, -1, 0, 1, 2, 3\}$.
 
 ## Data and setup
 
