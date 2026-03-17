@@ -22,7 +22,7 @@ To evaluate, just run `python evaluate.py --data eval_easy.json`
 
 You will only get points if you get at least 99.5% AUC (I can do this with 32k parameters).
 
-## Hard difficulty (option 1, 70% points)
+## Hard difficulty (70% points)
 
 Evaluation sequences have different lengths.
 Some sequences are only partially irregular (irregularities can occur intermittently), these count as irregular.
