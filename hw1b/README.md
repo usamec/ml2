@@ -22,10 +22,15 @@ Use linearly decaying learning rate (i.e. $\eta(t) = \eta_0 (1 - \frac{t}{T})$, 
 Run optimization for a long time (if you get a reasonable solution, try doubling the optimization steps).
 If done right, you should MSE around 9.
 Track loss after each step and plot it. Does it look reasonable?
-What is happening with continuous weights $W'$ during optimization and what with quantized weights W? This should not have one sentence answer, but rather multiple pages.
+What is happening with continuous weights $W'$ during optimization, and what with quantized weights $ W$? This should not have a one-sentence answer, but rather multiple pages.
 
 ## Third task (30%)
 
 Based on previous observations, do something better (I can do slightly less than 7 MSE).
 
+
+## Allowed and disallowed techniques
+
+You can use AI as you wish, but describe how you use it and keep in mind that you must understand everything inside your solution.
+Also, if you want to use autoresearch by Andrej Karpathy, knock yourself out.
 
