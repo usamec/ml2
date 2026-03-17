@@ -13,15 +13,19 @@ Example dummy solution is in solve.py.
 
 ## First task (30%)
 
-Find $W$ using gradient descent and straight-through estimator, i.e. you will look for contigous $W'$, which you then quantized to $W = q(W')$ and compute loss and gradient. We pretend that derivative of q is one everywhere.
-You should get squared error at most TODO.
+Find $W$ using (stochastic) gradient descent and straight-through estimator, i.e. you will look for contigous $W'$, which you then quantized to $W = q(W')$ and compute loss and gradient. We pretend that derivative of q is one everywhere. Use a constant learning rate.
+You should get mean squared error at most 14 (but will a little luck you can get less than 12).
 
 ## Second task (40%)
 
-Look at change of $W'$ and $W$ between iteration later in the training. What is going on?
+Use linearly decaying learning rate (i.e. $\eta(t) = \eta_0 (1 - \frac{t}{T})$, where $\eta_0$ is initial learning rate and $T$ is number of iterations and $t$ is the current iteration).
+Run optimization for long time (if you get reasonable solution, try doubling the optimization steps).
+If done right, you should get loss around 9.
+Track loss after each step and plot it. Does it look reasonable?
+What is happening with continuous weights $W'$ during optimization and what with quantized weights W? This should not have one sentence answer, but rather multiple pages.
 
 ## Third task (30%)
 
-Based on previous observation do something better.
+Based on previous observation do something better (I can do slightly less than 7 MSE).
 
 
