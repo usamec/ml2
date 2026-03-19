@@ -3,7 +3,7 @@
 ## General description
 
 We will do a quantized linear regression.
-You are given inputs $X$ and target outputs $Y$, your goal is to find a weight $W$ such that $||XW - Y||_2$ is minimal and individual weights from $W$ are from $\{-3, -2, -1, 0, 1, 2, 3\}$.
+You are given inputs $X$ and target outputs $Y$, your goal is to find a weight $W$ such that $||XW - Y||_2$ is minimal and individual weights from $W$ are from {-3, -2, -1, 0, 1, 2, 3}.
 
 ## Data and setup
 
@@ -22,7 +22,7 @@ Use linearly decaying learning rate (i.e. $\eta(t) = \eta_0 (1 - \frac{t}{T})$, 
 Run optimization for a long time (if you get a reasonable solution, try doubling the optimization steps).
 If done right, you should MSE around 9.
 Track loss after each step and plot it. Does it look reasonable?
-What is happening with continuous weights $W'$ during optimization, and what with quantized weights $ W$? This should not have a one-sentence answer, but rather multiple pages.
+What is happening with continuous weights $W'$ during optimization, and what with quantized weights $W$? This should not have a one-sentence answer, but rather multiple pages.
 
 ## Third task (30%)
 
