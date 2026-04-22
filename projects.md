@@ -26,11 +26,17 @@ The general workflow is: You submit a project, we will talk to you about it, and
 ## Suggested project topics
 
 A good project is, for example, a replication of some other results in a simplified setting (smaller dataset, networks, ...) or
-analysis or some behaviour of a neural network. But it does not have to be; if you are not sure, ask.
+an analysis of some behavior of a neural network. But it does not have to be; if you are not sure, ask.
 
-
+TODO:
 
 * RNN with state dependended forget gate vs just input dependent. (Aka SSM vs GRU). (https://x.com/francoisfleuret/status/2031633024253624698)
+
+### LLM compression for specific task
+
+Pick a small LLM (e.g. SmolLM2 is a good choice) and a highly specific task (e.g., extracting movie times from a movie theater page).
+Try compressing the language model as much as possible without changing the output of the task.
+The compression method is up to you. Something specific (e.g., removing useless attention heads for the task) is more preferable than just generic 4-bit quantization.
 
 ### Efficient KL-divergence implementation
 
