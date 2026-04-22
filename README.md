@@ -7,7 +7,7 @@
 ## Grading
 
 * Homework (deadline 19th April) - Pick one of two variants [Variant A](https://github.com/usamec/ml2/tree/master/hw1a), [Variant B](https://github.com/usamec/ml2/tree/master/hw1b).
-* Project (instructions TBD) - first deadline end of semester, then apx. one more week after feedback to improve project - 70%
+* Project [instructions](https://usamec.github.io/ml2/projects) - first deadline end of semester, then apx. one more week after feedback to improve project (see instructions for specific dates) - 70%
 
 In both cases, there might be an oral exam on the contents of your solution (most likely during the lecture time for homework and sometimes during the exam period for the project).
 
